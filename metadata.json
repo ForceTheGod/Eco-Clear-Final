@@ -1,0 +1,6 @@
+
+{
+  "name": "EcoClear - Browser Waste Classifier",
+  "description": "A high-performance, privacy-focused waste classification tool that runs entirely in your browser using TensorFlow.js. Identify recyclables, compostables, and more with zero data transmission.",
+  "requestFramePermissions": []
+}
